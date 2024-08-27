@@ -3566,7 +3566,7 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
-header{
+.header-wrapper{
   position:absolute;
   top:0;
   width:100%;
